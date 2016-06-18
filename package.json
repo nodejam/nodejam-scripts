@@ -1,0 +1,17 @@
+{
+  "author": "Fora Project<jeswin@agilehead.com>",
+  "dependencies": {
+    "crankshaft": "*"
+  },
+  "devDependencies": {
+    "babel-polyfill": "*",
+    "babel-preset-es2015": "*",
+    "babel-preset-react": "*",
+    "babel-preset-stage-2": "*",
+    "babel-plugin-transform-class-properties": "*",
+    "babel-relay-plugin-loader": "*",
+    "source-map-loader": "*",
+    "babel-loader": "*",
+    "nodefunc-promisify": "*"
+  }
+}
